@@ -3,7 +3,7 @@
   "version": "1.4.4",
   "description": "copy from https://github.com/mricle/Mricode.Pagination",
   "main": "mricode.pagination.js",
-  "style": "mricode.pagination.css"
+  "style": "mricode.pagination.css",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
