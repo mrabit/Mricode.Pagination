@@ -1,0 +1,19 @@
+{
+  "name": "mricode.pagination",
+  "version": "1.4.4",
+  "description": "copy from https://github.com/mricle/Mricode.Pagination",
+  "main": "jQuery",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrabit/Mricode.Pagination.git"
+  },
+  "author": "mrabit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrabit/Mricode.Pagination/issues"
+  },
+  "homepage": "https://github.com/mrabit/Mricode.Pagination#readme"
+}
